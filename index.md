@@ -20,6 +20,7 @@
       <p><b>Wechat：feiyedeng_8</b></p>
       &nbsp; 
       <p><b>Major: Communication Engineering</b></p>
+      [Chinese vision](https://evny.github.io/)
     </td>
     <td width="25%">
       <img src="/FYD.jpg" width="110%">      
