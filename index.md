@@ -1,37 +1,56 @@
-## Welcome to GitHub Pages
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1><font color="#0000dd">Freedom</font><br /></h1>
+      &nbsp; 
+      <p><b>Date of birth：1999.03.30</b></p>
+      &nbsp; 
+      <p><b>Native place:：han</b></p>
+      &nbsp; 
+       <p><b>Address: Zhonghe street, Yinzhou District, Ningbo
 
-You can use the [editor on GitHub](https://github.com/evny/810365919.github-io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+</b></p>
+      &nbsp; 
+       <p><b>Mobile: 13957334543
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+</b></p>
+      &nbsp; 
+      <p><b>QQ：810365919</b></p>
+      &nbsp; 
+      <p><b>Wechat：feiyedeng_8</b></p>
+      &nbsp; 
+      <p><b>Major: Communication Engineering</b></p>
+    </td>
+    <td width="25%">
+      <img src="/FYD.jpg" width="110%">      
+    </td>
+  </tr>
+</table>
+----------------------
 
-### Markdown
+| **Good at field**  | **Good at projects**
+| ------------- |------------------ 
+|  <font color="#FF00FF">Dabble in profession</font><br />|_[Mobile communication](https://baike.baidu.com/item/%E7%A7%BB%E5%8A%A8%E9%80%9A%E4%BF%A1/373026?fr=aladdin)_  _network programming technology network security _   _[Optical fiber communication](https://baike.baidu.com/item/%E5%85%89%E7%BA%A4%E9%80%9A%E4%BF%A1/80999)_   _Principle of C language_   _communication technology_         
+| <font color="#FF00FF">**Orientation of postgraduate entrance examination**</font><br />| _[AI Engineering ](https://baike.baidu.com/item/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/9180?fr=aladdin)_  _AI Engineering /[ blockchain technology ](https://baike.baidu.com/item/%E5%8C%BA%E5%9D%97%E9%93%BE%E6%8A%80%E6%9C%AF)_  _network programming technology network security management_   
+| <font color="#FF00FF">**Hobbies**</font><br />   | _A literary creation_ _playing table tennis and guitar _ _Edit video_
+| <font color="#FF00FF">**Honorary Award**</font><br />    | _[Scholarship](https://baike.baidu.com/item/%E5%A5%96%E5%AD%A6%E9%87%91) three good students competition award _ _man serving at a ceremony_   _Finger flick Competition Award_  
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1><font color="#8A2BE2">Personal information</font><br /></h1>
+      <p><b>I am an undergraduate from Wanli College of Zhejiang Province, majoring in general engineering. I have learned a series of professional courses in the University, such as programming language, mobile communication, optical fiber communication, database and so on. My major is network security maintenance. I have won a second-class scholarship, three good students, Wanli star and other honorary certificates in the University. I have also participated in the IT cup, the National Undergraduate Electronic Design Competition It has a certain foundation for the embedded part. In addition, it pursues the same development of interests and hobbies. It has participated in the 15th ceremony and won awards, and won the second prize in the school Guitar Competition. At present, it is preparing for the postgraduate entrance examination, hoping to be able to specialize in graduate students without interruption in this study</b></p>
+    </td>
+    <td width="25%">
+        <p><b>WeChat: official account</b></p>
+      <img src="/gzh.jpg" width="110%">      
+    </td>
+  </tr>
+</table>
+----------------------
+[School Official Website](http://www.zwu.edu.cn/)                    
+<a href="mailto:810365919@qq.com">EMAIL</a>               <font color="#DC143C">(Don't bother me if you have nothing to do in the review of postgraduate entrance examination！！！)</font><br />
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/evny/810365919.github-io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
